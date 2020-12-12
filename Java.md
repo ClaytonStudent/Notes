@@ -328,3 +328,10 @@ JavaScript 中的字符串使用的是 UTF-16 编码。
 `str.trim()` —— 删除字符串前后的空格 (“trims”)
 
 `str.repeat(n)` —— 重复字符串 `n` 次
+
+
+
+
+
+人工 自动框架 jenkins
+
