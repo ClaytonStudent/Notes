@@ -5,3 +5,4 @@ note of computer structure, network, programming and web technology.
 TODO:
 1. Go through Email, catch up all works.
 2. Prepare for the web development.
+3. Reading Books 
